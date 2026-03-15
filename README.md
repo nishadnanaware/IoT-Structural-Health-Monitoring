@@ -15,6 +15,12 @@ Objectives
 
 ---
 
+Block Diagram
+
+![Block Diagram](block_diagram.png) SHM CIRCUIT.jpeg
+
+---
+
  Working Principle
 
 * Sensors measure structural parameters
@@ -36,6 +42,12 @@ Components Used
 * LCD Display
 * Buzzer
 * Power Supply Unit
+
+---
+
+SHM CIRCUIT
+
+![SHM CIRCUIT](SHM CIRCUIT.jpeg)
 
 ---
 
