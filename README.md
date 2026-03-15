@@ -17,7 +17,7 @@ Objectives
 
 Block Diagram
 
-![Block Diagram](block_diagram.png) SHM CIRCUIT.jpeg
+![SHM blockdiagram](shm_blockdiagram.jpeg)
 
 ---
 
@@ -47,7 +47,7 @@ Components Used
 
 SHM CIRCUIT
 
-![SHM CIRCUIT](SHM CIRCUIT.jpeg)
+![SHM Circuit](shm_circuit.jpeg)
 
 ---
 
